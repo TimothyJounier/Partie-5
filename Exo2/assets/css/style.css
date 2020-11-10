@@ -1,0 +1,15 @@
+/* Centre le formulaire */
+form {
+    margin: 0 auto;
+    width: 400px;
+    /*encadre le form */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+.borderColor1 {
+    border-color: green;
+}
+.borderColor2 {
+    border-color: red;
+}
